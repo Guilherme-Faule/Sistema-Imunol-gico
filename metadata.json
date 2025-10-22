@@ -1,0 +1,5 @@
+{
+  "name": "Sistema Imunológico: A Batalha",
+  "description": "Uma aplicação interativa que explica a resposta imunológica do corpo humano gerando cartas únicas no estilo 'Magic: The Gathering' para cada fase de defesa, usando Gemini e Imagen.",
+  "requestFramePermissions": []
+}
